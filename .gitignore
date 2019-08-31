@@ -5,5 +5,8 @@
 *.tfstate
 *.tfstate.*
 
+# .Connections file
+Connections.tf
+
 # .tfvars files
 *.tfvars
